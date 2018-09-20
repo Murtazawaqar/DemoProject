@@ -1,0 +1,7 @@
+Languages and Frameworks:
+Java
+Angular
+Spring Core
+Spring Data JPA
+Spring Security
+Amazon
